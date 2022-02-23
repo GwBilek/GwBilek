@@ -6,4 +6,4 @@
 
 ### Social Media
 
-[<img align="left" alt="DinXT | Instagram" width="22px"/>] [<src="https://cdn.jsdelivr.net/npm/simple-icons@v/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="DinXT | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v/icons/instagram.svg" />] Instagram
