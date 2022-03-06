@@ -36,7 +36,7 @@ Repo Favorit 😅
   </a>
   </h2>
   
-> Nih yang mau copas readme gw
+> Nih yang mau copas button :v
 - Instagram </br>
 ```md
 <a href="https://instagram.com/namaig"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -56,4 +56,4 @@ Repo Favorit 😅
 </br></br>
   _Jangan lupa tambahin `</a>` di akhiran ny_ </br></br>
   
-<h1 align="center"> Jangan buka readme gw karena berantakan 😅
+<h1 align="center"> Jangan dibuka karena berantakan 😅
