@@ -25,7 +25,7 @@
 
 <p align ="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinXT&theme=dark&layout=compact">
   
-  ![Metrics](https://metrics.lecoq.io/DinXT?template=terminal&config.timezone=Asia%2FJakarta)  
+![Metrics](https://metrics.lecoq.io/DinXT?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
   </h2>
     </a>
   
@@ -55,5 +55,9 @@ Repo Favorit 😅
 ```
 </br></br>
   _Jangan lupa tambahin `</a>` di akhiran ny_ </br></br>
+
+<p align="center">
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23000000&size=24&center=true&vCenter=true&width=410&height=56&lines=Makasih+bang+dah+mampir;Jangan+lupa+add+wa+gw+%3Av;Sekalian+follow+ig+gw+wkwk)](https://git.io/typing-svg)
   
-<h1 align="center"> hasil nyontek 😎
+  </p>
