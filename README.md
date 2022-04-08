@@ -1,16 +1,16 @@
 <h1 align="center">👋 Halo Bang</h1>
 
 ### Info
-- 👋 Hi, I’m @DinXT
-- 👀 I’m interested in baileys-md
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on WhatsApp bot devs
+- 👋 Hi, I’m @DinXZY
+- 👀 I’m interested in wangsaff bof
+- 🌱 I’m currently learning nyatir 😅
+- 💞️ I’m looking to mangan di warung bimlek
 - 📫 Active on WhatsApp
 
 ### Social Media
 <h2 align="left">
-  <a href="https://wa.me/6281380674817"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://instagram.com/dinxt.xyz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6287819654911"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/dinxyz.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://facebook.com/DinXT"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/DinXT"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />  
     </a>
@@ -20,19 +20,19 @@
   <p align="left"> 💻 GitHub Stats</p>
   </br>
 
-<a href="https://github.com/DinXT"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinXT&show_icons=true&theme=dark) 
+<a href="https://github.com/DinXZY"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinXT&show_icons=true&theme=dark) 
 
 
 <p align ="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinXT&theme=dark&layout=compact">
   
-![Metrics](https://metrics.lecoq.io/DinXT?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/DinXZY?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
   </h2>
     </a>
   
 <h2 align="left">
-Repo Favorit 😅
+Bilek amat
   
-<a href="https://github.com/DinXT/wabot-DinXT"> ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DinXT&repo=wabot-DinXT&theme=dark)
+<a href="https://github.com/DinXZY/"> ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DinXYZ&repo=wabot-DinXYZ&theme=dark)
   </a>
   </h2>
   
