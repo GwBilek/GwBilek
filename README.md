@@ -20,10 +20,10 @@
   <p align="left"> 💻 GitHub Stats</p>
   </br>
 
-<a href="https://github.com/DinXZY"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinXT&show_icons=true&theme=dark) 
+<a href="https://github.com/DinXZY"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinXZY&show_icons=true&theme=dark) 
 
 
-<p align ="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinXT&theme=dark&layout=compact">
+<p align ="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinXZY&theme=dark&layout=compact">
   
 ![Metrics](https://metrics.lecoq.io/DinXZY?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
   </h2>
@@ -32,7 +32,7 @@
 <h2 align="left">
 Bilek amat
   
-<a href="https://github.com/DinXZY/"> ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DinXYZ&repo=wabot-DinXYZ&theme=dark)
+<a href="https://github.com/DinXZY/"> ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DinXZY&repo=badut&theme=dark)
   </a>
   </h2>
   
