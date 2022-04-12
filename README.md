@@ -28,14 +28,10 @@
 ![Metrics](https://metrics.lecoq.io/DinXZY?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
   </h2>
     </a>
-  
 <h2 align="left">
-Bilek amat
-  
-<a href="https://github.com/DinXZY/"> ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DinXZY&repo=badut&theme=dark)
+<a href="https://github.com/DinXZY/"> ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DinXZY&repo=Psatir-BotV2&theme=dark)
   </a>
-  </h2>
-  
+</h2> 
 > Nih yang mau copas button :v
 - Instagram </br>
 ```md
