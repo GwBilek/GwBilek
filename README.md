@@ -28,10 +28,8 @@
 ![Metrics](https://metrics.lecoq.io/DinXZY?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
   </h2>
     </a>
-<h2 align="left">
-<a href="https://github.com/DinXZY/"> ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DinXZY&repo=Psatir-BotV2&theme=dark)
-  </a>
-</h2> 
+    
+    
 > Nih yang mau copas button :v
 - Instagram </br>
 ```md
@@ -53,7 +51,7 @@
   _Jangan lupa tambahin `</a>` di akhiran ny_ </br></br>
 
 <p align="center">
-
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23000000&size=24&center=true&vCenter=true&width=410&height=56&lines=Makasih+bang+dah+mampir;Jangan+lupa+add+wa+gw+%3Av;Sekalian+follow+ig+gw+wkwk)](https://git.io/typing-svg)
+    
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Makasih+bang+dah+mampir;Jangan+lupa+starnya;Sekalian+follow+ig+gw+wkwk)](https://git.io/typing-svg)
   
   </p>
