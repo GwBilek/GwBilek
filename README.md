@@ -1,9 +1,9 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Info.;Info.;なまけもの。)](https://bit.ly/DinXYZ)
+[![Tch manusia hanyalah sebuah alat.](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Info.;Info.;なまけもの。)](https://bit.ly/DinXYZ)
 > </br>Social Media :</br>[`WhatsApp`](https://bit.ly/DinXYZ) | [`Instagram`](https://instagram.com/dinxyz.dev) | [`Youtube`](https://m.youtube.com/channel/UCRekUYkTrqcCpMZ9H2RUM_g)</p>
 > Stats :
 > ㅤ
 >
-> ![DinXZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinXZY&show_icons=true&theme=dark)
+> ![Bcot lu.](https://github-readme-stats.vercel.app/api?username=DinXZY&show_icons=true&theme=dark)
 >
 >
 > Most Languages :
@@ -26,11 +26,8 @@
 >
 > <img align="left" alt="Heroku" width=" 26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="padding-right:10px;" /> _Heroku_</br>
 
-![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Metrics.)
+![Dunia hanyalah ilusi.](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Metrics.)
 >
-> ![Metrics](https://metrics.lecoq.io/DinXZY?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)</br>
+> ![Nothing is eternal.](https://metrics.lecoq.io/DinXZY?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)</br>
 </br>
-<p align="Center">
-<a href="pornhub.com">
-Hanya Pemalas.
-</p>
+<p align="Center"><a href="pornhub.com">Hanya Pemalas.</p></a>
