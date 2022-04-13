@@ -1,57 +1,36 @@
-<h1 align="center">👋 Halo Bang</h1>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Info.;Info.;なまけもの。)](https://bit.ly/DinXYZ)
+> </br>Social Media :</br>[`WhatsApp`](https://bit.ly/DinXYZ) | [`Instagram`](https://instagram.com/dinxyz.dev) | [`Youtube`](https://m.youtube.com/channel/UCRekUYkTrqcCpMZ9H2RUM_g)</p>
+> Stats :
+> ㅤ
+>
+> ![DinXZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinXZY&show_icons=true&theme=dark)
+>
+>
+> Most Languages :
+>
+> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinXZY&theme=dark&layout=compact">
+![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Tools.)
+> <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> _Visual Studio Code_</br>
+>
+> <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> _JavaScript_</br>
+>
+> <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> _Git_</br>
+>
+> <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" /> _Github_</br>
+>
+> <img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="padding-right:10px;" /> _Android_</br>
+>
+> <img align="left" alt="Python" width=" 26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /> _Python_</br>
+>
+> <img align="left" alt="NodeJS" width=" 26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> _NodeJS_</br>
+>
+> <img align="left" alt="Heroku" width=" 26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="padding-right:10px;" /> _Heroku_</br>
 
-### Info
-- 👋 Hi, I’m @DinXZY
-- 👀 I’m interested in wangsaff bof
-- 🌱 I’m currently learning nyatir 😅
-- 💞️ I’m looking to mangan di warung bimlek
-- 📫 Active on WhatsApp
-
-### Social Media
-<h2 align="left">
-  <a href="https://wa.me/6287819654911"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://instagram.com/dinxyz.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://facebook.com/DinXT"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/DinXT"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />  
-    </a>
-    
-------
-
-  <p align="left"> 💻 GitHub Stats</p>
-  </br>
-
-<a href="https://github.com/DinXZY"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinXZY&show_icons=true&theme=dark) 
-
-
-<p align ="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinXZY&theme=dark&layout=compact">
-  
-![Metrics](https://metrics.lecoq.io/DinXZY?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
-  </h2>
-    </a>
-    
-    
-> Nih yang mau copas button :v
-- Instagram </br>
-```md
-<a href="https://instagram.com/namaig"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-```
-- WhatsApp</br>
-```md
-<a href="https://wa.me/nomorwa"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-```
-- Facebook</br>
-```md
-<a href="https://facebook.com/namafb"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-```
-- Telegram</br>
-```md
-<a href="https://t.me/namatele"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-```
-</br></br>
-  _Jangan lupa tambahin `</a>` di akhiran ny_ </br></br>
-
-<p align="center">
-    
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Makasih+bang+dah+mampir;Jangan+lupa+starnya;Sekalian+follow+ig+gw+wkwk)](https://git.io/typing-svg)
-  
-  </p>
+![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Metrics.)
+>
+> ![Metrics](https://metrics.lecoq.io/DinXZY?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)</br>
+</br>
+<p align="Center">
+<a href="pornhub.com">
+Hanya Pemalas.
+</p>
