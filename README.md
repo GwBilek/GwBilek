@@ -1,5 +1,5 @@
 [![DinnPsatirzZ | Typing SVG](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Info.;Info.;怠け者。)](https://bit.ly/DinnPsatirzZ)
-> </br>Social Media :</br>[`WhatsApp`](https://bit.ly/DinnPsatirzZ) | [`Instagram`](https://instagram.com/dinn.psatir) | [`Youtube`](https://m.youtube.com/channel/UCRekUYkTrqcCpMZ9H2RUM_g)</p>
+> </br>Social Media :</br>[`WhatsApp`](https://bit.ly/DinnPsatirzZ) | [`Instagram`](https://instagram.com/dnalfth) | [`Youtube`](https://m.youtube.com/channel/UCRekUYkTrqcCpMZ9H2RUM_g)</p>
 > Stats :
 > ㅤ
 >
