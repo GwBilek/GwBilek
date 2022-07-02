@@ -1,4 +1,6 @@
-[![DinnPsatirzZ | Typing SVG](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Info.;Info.;怠け者。)](https://bit.ly/DinnPsatirzZ)
+<h1 align="center"> My Profile. </h1> 
+
+
 > </br>Social Media :</br>[`WhatsApp`](https://bit.ly/DinnPsatirzZ) | [`Instagram`](https://instagram.com/dnalfth) | [`Youtube`](https://m.youtube.com/channel/UCRekUYkTrqcCpMZ9H2RUM_g)</p>
 > Stats :
 > ㅤ
@@ -9,7 +11,9 @@
 > Most Languages :
 >
 > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinnPsatirzZ&theme=dark&layout=compact">
-![DinnPsatirzZ | Typing SVG](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Tools.)
+</br>
+
+> ## Platforms.
 > <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> _Visual Studio Code_</br>
 >
 > <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> _JavaScript_</br>
@@ -26,13 +30,21 @@
 >
 > <img align="left" alt="Heroku" width=" 26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="padding-right:10px;" /> _Heroku_</br>
 
-![](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Metrics.)
 </br>
-> ![DinnPsatirzZ | Metrics](https://metrics.lecoq.io/DinnPsatirzZ?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
 
-![DinnPsatirzZ | Typing SVG](http://readme-typing-svg.herokuapp.com?color=ffff&size=24&center=true&vCenter=true&width=410&height=56&lines=Link.)
+> ## Metrics.
+> </br>
+>
+> ![DinnPsatirzZ | Metrics](https://metrics.lecoq.io/DinnPsatirzZ?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
+</br>
+
+> ## Repositories Collection. 
 > Nama | Link
 > ---|---
-> Link SC | [bit.ly/scbotwa1](https://bit.ly/scbotwa1)
-> Link SC Md | [bit.ly/scbotwa2](https://bit.ly/scbotwa2)
-> Ambil Session | [bit.ly/Psatir-Session](https://bit.ly/Psatir-Session)
+> All-In-One Bot | None
+> Private Use Bot | None
+> Session Scanner | None
+
+</br>
+
+<a href="https://github.com/codeSTACKr"> Inspired By CodeSTACKr. </a>
