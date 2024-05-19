@@ -35,8 +35,12 @@
 > ## Metrics.
 > </br>
 >
-> ![DinXT | Metrics](https://metrics.lecoq.io/Gwbilek?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
-</br>
-
+> ![DinXT | Metrics](https://metrics.lecoq.io/Gwbilek?template=classic&isocalendar=1&isocalendar.duration=halfyear&config.timezone=Asia%2FJakarta)
+</br></br>
 > ## Insights.
 ![Insights](https://metrics.lecoq.io/insights/Gwbilek)
+
+
+
+
+
