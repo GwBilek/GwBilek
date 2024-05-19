@@ -39,4 +39,6 @@
 </br>
 
 
----href="https://github.com/codeSTACKr"> Inspired By CodeSTACKr.---
+![asu](https://github.com/codeSTACKr). [^1]
+
+[^1]: This is the footnote.
