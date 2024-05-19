@@ -39,4 +39,4 @@
 </br>
 
 
---- href="https://github.com/codeSTACKr"> Inspired By CodeSTACKr. ---
+---href="https://github.com/codeSTACKr"> Inspired By CodeSTACKr.---
