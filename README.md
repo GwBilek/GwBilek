@@ -39,4 +39,4 @@
 </br>
 
 
-/// <a href="https://github.com/codeSTACKr"> Inspired By CodeSTACKr. </a> ///
+//<a href="https://github.com/codeSTACKr"> // Inspired By CodeSTACKr. </a>
