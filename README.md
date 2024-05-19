@@ -32,14 +32,8 @@
 
 </br>
 
-> ## Metrics.
-> </br>
->
-> ![DinXT | Metrics](https://metrics.lecoq.io/Gwbilek?template=classic&isocalendar=1&isocalendar.duration=halfyear&config.timezone=Asia%2FJakarta)
-</br></br>
-
 > ## WakaTime.
-[![wakatime](https://wakatime.com/badge/user/35a78747-ef94-4420-9c2d-e88707ee49a7.svg)](https://wakatime.com/@35a78747-ef94-4420-9c2d-e88707ee49a7)
+> [![wakatime](https://wakatime.com/badge/user/35a78747-ef94-4420-9c2d-e88707ee49a7.svg)](https://wakatime.com/@35a78747-ef94-4420-9c2d-e88707ee49a7)
 
 
 
