@@ -38,7 +38,5 @@
 > ![DinXT | Metrics](https://metrics.lecoq.io/Gwbilek?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
 </br>
 
-
-![asu](https://github.com/codeSTACKr). [^1]
-
-[^1]: This is the footnote.
+> ## Insights.
+![Insights](https://metrics.lecoq.io/insights/Gwbilek)
