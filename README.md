@@ -5,12 +5,12 @@
 > Stats :
 > ㅤ
 >
-> ![DinnPsatirzZ | Readme Stats](https://github-readme-stats.vercel.app/api?username=DinnPsatirzZ&show_icons=true&theme=dark)
+> ![DinnPsatirzZ | Readme Stats](https://github-readme-stats.vercel.app/api?username=Gwbilek&show_icons=true&theme=dark)
 >
 >
 > Most Languages :
 >
-> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinnPsatirzZ&theme=dark&layout=compact">
+> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwbilek&theme=dark&layout=compact">
 </br>
 
 > ## Platforms.
@@ -35,16 +35,8 @@
 > ## Metrics.
 > </br>
 >
-> ![DinnPsatirzZ | Metrics](https://metrics.lecoq.io/DinnPsatirzZ?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
+> ![DinXT | Metrics](https://metrics.lecoq.io/Gwbilek?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
 </br>
 
-> ## Repositories Collection. 
-> Nama | Link
-> ---|---
-> All-In-One Bot | None
-> Private Use Bot | None
-> Session Scanner | None
-
-</br>
 
 <a href="https://github.com/codeSTACKr"> Inspired By CodeSTACKr. </a>
