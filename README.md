@@ -39,7 +39,7 @@
 </br></br>
 
 > ## WakaTime.
-[![DinXT's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gwbilek)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/35a78747-ef94-4420-9c2d-e88707ee49a7.svg)](https://wakatime.com/@35a78747-ef94-4420-9c2d-e88707ee49a7)
 
 
 
