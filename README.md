@@ -1,11 +1,11 @@
 <h1 align="center"> My Profile. </h1> 
 
 
-> </br>Social Media :</br>[`WhatsApp`](https://bit.ly/DinnPsatirzZ) | [`Instagram`](https://instagram.com/dnalfth) | [`Youtube`](https://m.youtube.com/channel/UCRekUYkTrqcCpMZ9H2RUM_g)</p>
+> </br>Social Media :</br>[`WhatsApp`](https://wa.me/6287819654911) | [`Instagram`](https://instagram.com/dnalfth) | [`Youtube`](https://m.youtube.com/channel/UCRekUYkTrqcCpMZ9H2RUM_g)</p>
 > Stats :
 > ㅤ
 >
-> ![DinnPsatirzZ | Readme Stats](https://github-readme-stats.vercel.app/api?username=Gwbilek&show_icons=true&theme=dark)
+> ![DinXT | Readme Stats](https://github-readme-stats.vercel.app/api?username=Gwbilek&show_icons=true&theme=dark)
 >
 >
 > Most Languages :
@@ -13,7 +13,7 @@
 > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwbilek&theme=dark&layout=compact">
 </br>
 
-> ## Platforms.
+> ## What I Use.
 > <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> _Visual Studio Code_</br>
 >
 > <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> _JavaScript_</br>
@@ -39,4 +39,4 @@
 </br>
 
 
-<a href="https://github.com/codeSTACKr"> Inspired By CodeSTACKr. </a>
+/// <a href="https://github.com/codeSTACKr"> Inspired By CodeSTACKr. </a> ///
